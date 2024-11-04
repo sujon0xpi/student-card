@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="student id card maker">
+  <meta name="keywords" content="student id card maker, student fake ID card maker">
+  <meta name="author" content="Sujon Islam">
+    <link rel="shortcut icon" href="https://i.ibb.co/bd5YXKC/IMG-20240607-161556-584.jpg" />
+  <meta property="og:title" content="ছাত্রদের ফেক আইডি কার্ড তৈরি করার জন্য ওয়েবসাইট।" />
+  <meta property="og:description" content="ছাত্রদের ফেক আইডি কার্ড তৈরি করার জন্য ওয়েবসাইট।" />
+  <meta property="og:image" content="https://i.ibb.co/t2VNTsK/IMG-20240802-171938.jpg" />
+    <title>Student id card maker</title>
+</head>
+<body>
+<div class="id-card" id="id-card">
+    <label for="logo-upload">
+        <img src="https://i.ibb.co/ykXMcW0/pngtree-education-and-college-logo-design-template-vector-png-image-6627789.png" alt="College Logo" class="logo" id="logo">
+    </label>
+    <input type="file" id="logo-upload" accept="image/*" onchange="loadLogo(event)">
+    
+    <h1 class="curved" contenteditable="true">GOVT RAJAKAR COLLEGE DHAKA</h1>
+    
+    <label for="photo-upload">
+        <img src="https://i.ibb.co/Pwh7Z9p/IMG-20240802-164738.jpg" alt="Student Photo" class="photo" id="photo">
+    </label>
+    <input type="file" id="photo-upload" accept="image/*" onchange="loadPhoto(event)">
+    
+    <div class="id-label">ID</div>
+    <div class="card-label">CARD</div>
+    <div class="details">
+        <div>Name: <span contenteditable="true">Sujon Islam</span></div>
+        <div>Father: <span contenteditable="true">Md. Sheikh Mujibur Rahman</span></div>
+        <div>Class: <span contenteditable="true">HSC (Science)</span></div>
+        <div>Roll: <span contenteditable="true">10</span></div>
+        <div>EIIN: <span contenteditable="true">112478</span></div>
+        <div>ID NO: <span contenteditable="true">23100794</span></div>
+        <div>Session: <span contenteditable="true">2023-24</span></div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <div class="validity">Valid up to <span contenteditable="true">2026</span></div>
+    <div class="signature" contenteditable="true">Sujon islam</div>
+    <div class="signature-line"></div>
+    <div class="principal">Principal</div>
+</div>
+
+<button id="download-btn" onclick="downloadCard()">Download as PNG</button>
+
+    <div class="footer">
+    Developed by <a href="https://sujon0xpi.github.io/card/" target="_blank">Sujon Islam</a>
+   | Join our <a href="https://t.me/Freedom369_4u" target="_blank">Telegram Channel</a>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+<script src="obfuscated_code.js"></script>
+
+</body>
+</html>
