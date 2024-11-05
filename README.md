@@ -8,7 +8,6 @@ Easily create and personalize a Bangladeshi student ID card with this user-frien
 ## ✨ Key Features of the Student ID Card Maker
 - **Customizable Photos**: Click on any image (institution logo or student photo) to upload your own directly from your gallery.
 - **Editable Text Fields**: Change the college or university name, student name, and other essential details to personalize your ID card.
-- **High-Resolution Download**: Save your ID card in **1013 px x 638 px** at **300 DPI**, perfect for professional printing.
 
 ## 🎯 Purpose of This Tool
 এই টুলটির মূল উদ্দেশ্য হলো শিক্ষার্থীদের সেবা প্রদান করা, যারা হয়তো ইস্কুল বা কলেজ থেকে আইডি কার্ড পান না। ফলে তাদের বিভিন্ন ক্ষেত্রে যেমন বাস ভাড়া বা অন্যান্য জায়গায় ছাড় পেতে সমস্যা হয়। এই আইডি কার্ডটি ব্যবহার করে, আপনি বাসের ভাড়া হাফ বা বিভিন্ন ছাড় পেতে পারেন। এটি শিক্ষার্থীদের দৈনন্দিন জীবনে অনেক সহায়ক হতে পারে।
@@ -16,7 +15,7 @@ Easily create and personalize a Bangladeshi student ID card with this user-frien
 ## 🖨️ Print Your Student ID Card
 After downloading, bring your ID card file to a print shop and follow these instructions:
 1. **Size**: Print in **A4 size** with color printing.
-2. **Dimensions**: Ensure it fits within **A4 dimensions** as per pixel specifications.
+2. **Dimensions**: Ensure the card is set to **Height x Width - 1013 px x 638 px** before printing. Ask the print shop to adjust the size to fit these specifications.
 
 > **Tip**: Use this ID card for **half fare on buses** and other student discounts available in Bangladesh.
 
