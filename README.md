@@ -1,6 +1,6 @@
 # 🇧🇩 Bangladeshi Student ID Card Maker 🎓 | Free Customizable ID Card Tool
 
-Easily create and personalize a Bangladeshi student ID card with this user-friendly, educational tool. Perfect for students in Bangladesh who need a convenient solution for transportation discounts or school verification. **This project is not open-source but available for free use**. Built with high-quality templates and simple editing options.
+Easily create and personalize a Bangladeshi student ID card with this user-friendly, educational tool. Perfect for students in Bangladesh who need a convenient solution for transportation discounts or school verification. **This project is not open-source but is available for free use**. Built with high-quality templates and simple editing options.
 
 ## 🌐 Try the Bangladeshi Student ID Card Maker
 [👉 Visit the Student ID Card Maker Tool](https://sujon0xpi.github.io/student-card/)
@@ -16,7 +16,7 @@ Easily create and personalize a Bangladeshi student ID card with this user-frien
 ## 🖨️ Print Your Student ID Card
 After downloading, bring your ID card file to a print shop and follow these instructions:
 1. **Size**: Print in **A4 size** with color printing.
-2. **Dimensions**: Ask to fit within **A4 dimensions** as per pixel specifications.
+2. **Dimensions**: Ensure it fits within **A4 dimensions** as per pixel specifications.
 
 > **Tip**: Use this ID card for **half fare on buses** and other student discounts available in Bangladesh.
 
@@ -26,4 +26,4 @@ Need help getting started? Watch this step-by-step video guide: [How to Use the 
 ---
 
 ## ⚠️ Important Notice
-**Educational Use Only**: This tool is intended strictly for educational purposes. Users are encouraged to comply with all local regulations and avoid misuse of this ID generator.
+**Educational Use Only**: This tool is intended strictly for educational purposes. Users are encouraged to comply with all local regulations and avoid any misuse of this ID generator. Please use responsibly.
