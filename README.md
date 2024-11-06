@@ -20,7 +20,7 @@ After downloading, bring your ID card file to a print shop and follow these inst
 > **Tip**: Use this ID card for **half fare on buses** and other student discounts available in Bangladesh.
 
 ## 📹 How to Use the Bangladeshi Student ID Card Maker
-Need help getting started? Watch this step-by-step video guide: [How to Use the Student ID Card Maker](https://youtu.be/r5wpHhPoe_Q?si=ODfWKoV5RIqQ05KN).
+Need help getting started? Watch this step-by-step video guide: [How to Use the Student ID Card Maker](https://youtu.be/Vxd86N5y8JA?si=XyetT8wtWOA28ZGY).
 
 ---
 
